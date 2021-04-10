@@ -16,16 +16,4 @@ void Name(char* name1, int n)
 strcpy_s(name1, n, "hello");
 }
 
-//void Name(char* name1)
-//{
-//int n = 50;
-//char* str1 = new char[n];
-//strcpy_s(name1, n, "hello");
-//}
-
-//void MyName(const char* name[20])
-//{
-	//	*name = "Anna";
-		
-//}
 
